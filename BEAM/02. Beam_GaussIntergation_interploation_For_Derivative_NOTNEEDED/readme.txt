@@ -1,0 +1,1 @@
+This code is exactly same but instead of using inbuilt integration functions I'm using gauss integration and also for finding derivatives i'm using Lagrange integration and difference functions which is not numerical differentiation, helpful in finding piece u function, by this code we are getting little errors with finding derivatives at the ends
